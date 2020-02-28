@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Main {
@@ -7,8 +8,9 @@ public class Main {
                                                      new ReallySimpleSubscriber(),
                                                      new CircleArea(),
                                                      new Fibonacci() ,
+	                                             new CircleVolum(),
 						     new SummationSeries(),
-	                                             new CircleVolum() ,
+						     new TwoPowerN() ,
 						     new SphereVolume()
 	                                            };
 	
