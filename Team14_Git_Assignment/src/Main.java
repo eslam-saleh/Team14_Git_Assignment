@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 	private static ISubscriber subscribers [] = {
 			                             new SimpleSubscriber(),
+						     new SphereCircumference(),
                                                      new ReallySimpleSubscriber(),
                                                      new CircleArea(),
                                                      new Fibonacci() ,
