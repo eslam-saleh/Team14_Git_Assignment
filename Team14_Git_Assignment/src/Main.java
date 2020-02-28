@@ -7,8 +7,8 @@ public class Main {
                                                      new ReallySimpleSubscriber(),
                                                      new CircleArea(),
                                                      new Fibonacci() ,
-	                                             new CircleVolum(),
-						     new SummationSeries(),
+	                                             new CircleVolum() ,
+						     new SphereVolume()
 	                                            };
 	
 	public static void main(String[] args) {

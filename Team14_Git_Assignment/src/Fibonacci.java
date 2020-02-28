@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Fibonacci implements ISubscriber {
 
 	public static int Fibo(int n )
@@ -13,7 +14,7 @@ public class Fibonacci implements ISubscriber {
 	}
 	@Override
 	public void notifySubscriber(String input) {
-		
+		// TODO Auto-generated method stub
 		int numberofterms = Integer.parseInt(input);
 		for (int i = 0 ; i <numberofterms ; i++ )
 		{
