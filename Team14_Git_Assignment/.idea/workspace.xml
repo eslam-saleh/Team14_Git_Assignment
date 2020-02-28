@@ -34,4 +34,18 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="182" key="FileChooserDialogImpl" timestamp="1582815875159">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="584" y="182" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582815875159" />
+    <state x="499" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1582815822005">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="499" y="251" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582815822005" />
+    <state x="186" y="48" key="new project wizard" timestamp="1582815880082">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="186" y="48" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1582815880082" />
+  </component>
 </project>

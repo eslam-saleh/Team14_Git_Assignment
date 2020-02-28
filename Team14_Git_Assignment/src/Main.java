@@ -7,6 +7,7 @@ public class Main {
                                                      new CircleArea(),
                                                      new Fibonacci() ,
 	                                             new CircleVolum(),
+						     new SummationSeries(),
 	                                            };
 	
 	public static void main(String[] args) {
