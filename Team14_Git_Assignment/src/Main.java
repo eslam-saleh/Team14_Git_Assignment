@@ -9,7 +9,7 @@ public class Main {
                                                      new Fibonacci() ,
 	                                             new CircleVolum(),
 						     new SummationSeries(),
-			new TwoPowerN();
+						     new TwoPowerN()
 	                                            };
 	
 	public static void main(String[] args) {
