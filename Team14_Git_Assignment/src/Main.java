@@ -7,9 +7,14 @@ public class Main {
                                                      new ReallySimpleSubscriber(),
                                                      new CircleArea(),
                                                      new Fibonacci() ,
-	                                             new CircleVolum(),
+	                                             new BallVolume(),
 						     new SummationSeries(),
+
 			new TwoPowerrN();
+
+						   
+						     new SphereVolume()
+
 	                                            };
 	
 	public static void main(String[] args) {
