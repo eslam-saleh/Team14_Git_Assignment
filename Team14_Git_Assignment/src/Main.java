@@ -7,7 +7,7 @@ public class Main {
                                                      new ReallySimpleSubscriber(),
                                                      new CircleArea(),
                                                      new Fibonacci() ,
-	                                             new CircleVolum(),
+	                                             new BallVolume(),
 						     new SummationSeries(),
 						     new TwoPowerN(),
 						     new SphereVolume()
