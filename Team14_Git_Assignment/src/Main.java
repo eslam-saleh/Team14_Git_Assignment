@@ -9,8 +9,12 @@ public class Main {
                                                      new Fibonacci() ,
 	                                             new BallVolume(),
 						     new SummationSeries(),
-						     new TwoPowerN(),
+
+			new TwoPowerrN();
+
+						   
 						     new SphereVolume()
+
 	                                            };
 	
 	public static void main(String[] args) {

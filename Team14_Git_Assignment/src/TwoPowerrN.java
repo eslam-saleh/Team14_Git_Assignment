@@ -7,11 +7,10 @@ public class TwoPowerrN implements ISubscriber {
         return (int) Math.pow(2,N);
     }
 
-    public static void main(String[] args) {
-	// write your code here
-        Scanner in = new Scanner(System.in);
-        int N = in.nextInt();
-        int result = (int)power(N);
+    @Override
+    public void notifySubscriber(String input){
+        int result = (int)power(Integer.parseInt(input));
         System.out.println(result);
     }
+
 }
