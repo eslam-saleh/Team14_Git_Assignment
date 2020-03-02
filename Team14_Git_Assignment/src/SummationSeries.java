@@ -1,3 +1,7 @@
+package src;
+
+import src.ISubscriber;
+
 import java.util.Scanner;
 public class SummationSeries implements ISubscriber {
 
