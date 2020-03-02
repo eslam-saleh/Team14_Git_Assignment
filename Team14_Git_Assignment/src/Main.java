@@ -11,6 +11,7 @@ public class Main {
 						     new SummationSeries(),
 
 			new TwoPowerrN();
+		        new Factorial();
 
 						   
 						     new SphereVolume()
