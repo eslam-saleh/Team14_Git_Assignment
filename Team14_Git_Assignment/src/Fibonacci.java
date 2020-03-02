@@ -15,6 +15,7 @@ public class Fibonacci implements ISubscriber {
 	public void notifySubscriber(String input) {
 		
 		int numberofterms = Integer.parseInt(input);
+		System.out.print("Fibonacci :" + "\n") ; 
 		for (int i = 0 ; i <numberofterms ; i++ )
 		{
 			System.out.print(Fibo(i) + "\n");
