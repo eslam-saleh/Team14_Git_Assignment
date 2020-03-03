@@ -1,9 +1,11 @@
+package src;
 
 import java.lang.Math.*;
-public class SphereCircumference implements ISubscriber{
+
+public class SphereCircumference implements ISubscriber {
     @Override
-    public void notifySubscriber(String input){
+    public void notifySubscriber(String input) {
         double circumference = 2 * Double.parseDouble(input) * Math.PI;
-        System.out.println(circumference);
-}
+        System.out.println("SphereCircumference = " + circumference);
+    }
 }
