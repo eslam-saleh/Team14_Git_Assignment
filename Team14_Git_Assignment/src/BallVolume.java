@@ -8,6 +8,6 @@ public class BallVolume implements ISubscriber{
     @Override
     public void notifySubscriber(String input) {
         
-        System.out.println("CircleVolume = " + ball_volume(input));
+        System.out.println("Ball Volume = " + ball_volume(input));
     }
 }

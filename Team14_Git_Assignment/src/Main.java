@@ -12,7 +12,6 @@ public class Main {
 					 new TwoPowerrN(),
 					 new SphereVolume(),
 					 new lucasSeries()};
-
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
 		for (ISubscriber sub : subscribers) {
